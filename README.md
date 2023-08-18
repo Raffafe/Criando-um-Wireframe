@@ -1,5 +1,5 @@
 # Criando-um-Wireframe
- Construção de um Wireframe de média fidelidade e aplicar todos os conceitos e leis aprendidas até aqui. 
+ Construção de um Wireframe de média fidelidade aplicando todos os conceitos e leis aprendidas até aqui. 
  Construir um Wiframe e ter os fundamentos de User Experience bem consolidados é o primeiro passo para se tornar um(a) ótimo(a) UX Designer. 
 
  
@@ -12,7 +12,7 @@
 ## Tecnologias utilizadas:
  -Figma
 
-## Autor 
+## Autora 
 Raffaela Freitas
 
 email: irsf84@gmail.com
